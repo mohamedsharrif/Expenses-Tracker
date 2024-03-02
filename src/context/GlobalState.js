@@ -1,6 +1,6 @@
 import React,{createContext, useReducer} from 'react'
 import AppReducer from './AppReducer';
-import { type } from '@testing-library/user-event/dist/type';
+
 
 
 //initial state
