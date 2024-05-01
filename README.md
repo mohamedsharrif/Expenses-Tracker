@@ -21,7 +21,7 @@ This is a web application for managing your expenses and income. You can add tra
 - **Context API:** Context API is used for state management, providing a centralized way to manage the application's state.
 - **CSS:** CSS is used for styling the user interface, making the application visually appealing and easy to use.
 
-![Expense Tracker](https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/d1ee5cba-077d-4d04-89bc-6db37ef71f00)
+![Expense Tracker](https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/d1ee5cba-077d-4d04-89bc-6db37ef71f00 =400x)
 
 ## Getting Started
 
@@ -38,4 +38,4 @@ Once you've accessed the website, you can start using the application to manage 
 - **Deleting Transactions:** Each transaction in the list has a delete button. Click on the delete button to remove the transaction from your history.
 - **Checking Balance:** Your current balance is updated automatically after each transaction. You can see your balance at the top of the page.
 
-![Expense Tracker](https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0cbebf84-561f-420f-add6-403754482b5e)
+![Expense Tracker](https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0cbebf84-561f-420f-add6-403754482b5e =300x)
