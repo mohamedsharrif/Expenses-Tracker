@@ -40,5 +40,6 @@ Once you've accessed the website, you can start using the application to manage 
 
 <img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/67d4f19f-046c-492b-8c2c-74793f392bf3" alt="Tracker Page" width="300">
 *Tracker Page*
-<img width="300" alt="Tracker-transaction" src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/f6c03221-97c7-4389-b0c7-95cdf0d4b082">
 
+<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/f6c03221-97c7-4389-b0c7-95cdf0d4b082" alt="Tracker Transaction" width="300">
+*Tracker Transaction*
