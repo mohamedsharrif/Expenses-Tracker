@@ -29,7 +29,8 @@ Once you've accessed the website, you can start using the application to manage 
 
 - **Logging In:** Users can now log in with any password. They don't need to create an account.
 - **Logging Out:** After logging in, a logout button will appear, allowing users to log out when they're done.
-<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0bf5d7d4-3d6a-43f7-86b4-b6af11632af3" alt="Login Page" width="250">
+  
+  <img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0bf5d7d4-3d6a-43f7-86b4-b6af11632af3" alt="Login Page" width="250">
 *Login Page*
 
 - **Adding Transactions:** Click on the "Add Transaction" button to add a new transaction. Enter the transaction details, including the type (expense or income), amount, and description.
@@ -41,7 +42,7 @@ Once you've accessed the website, you can start using the application to manage 
 - **Deleting Transactions:** Each transaction in the list has a delete button. Click on the delete button to remove the transaction from your history.
 - **Checking Balance:** Your current balance is updated automatically after each transaction. You can see your balance at the top of the page.
 
-<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/f6c03221-97c7-4389-b0c7-95cdf0d4b082" alt="Tracker Transaction" width="230">
+  <img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/f6c03221-97c7-4389-b0c7-95cdf0d4b082" alt="Tracker Transaction" width="230">
 *Tracker Transaction*
 
 
