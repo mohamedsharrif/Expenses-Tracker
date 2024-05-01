@@ -15,8 +15,14 @@ const AddTransaction = () => {
       text,
       amount: +amount
     }
-    addTransaction(newTransaction)
+    
+    addTransaction(newTransaction);
+    setText(""); 
+    setAmount("");
+
+    
   }
+ 
   return (
     <div>
       {" "}
@@ -35,8 +41,11 @@ const AddTransaction = () => {
         </div>
         <button className="btn">Add transaction</button>
       </form>
+     
     </div>
+    
   );
 };
 
 export default AddTransaction;
+
