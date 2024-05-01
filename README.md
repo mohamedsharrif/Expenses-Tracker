@@ -35,12 +35,10 @@ Once you've accessed the website, you can start using the application to manage 
 - **Deleting Transactions:** Each transaction in the list has a delete button. Click on the delete button to remove the transaction from your history.
 - **Checking Balance:** Your current balance is updated automatically after each transaction. You can see your balance at the top of the page.
 
-<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0bf5d7d4-3d6a-43f7-86b4-b6af11632af3" alt="Login Page" width="200">
+<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/0bf5d7d4-3d6a-43f7-86b4-b6af11632af3" alt="Login Page" width="300">
 *Login Page*
 
-<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/67d4f19f-046c-492b-8c2c-74793f392bf3" alt="Tracker Page" width="200">
+<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/67d4f19f-046c-492b-8c2c-74793f392bf3" alt="Tracker Page" width="300">
 *Tracker Page*
-
-<img src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/your-image-url" alt="Adding Transaction" width="150">
-*Adding Transaction*
+<img width="300" alt="Tracker-transaction" src="https://github.com/mohamedsharrif/Expenses-Tracker/assets/140901952/f6c03221-97c7-4389-b0c7-95cdf0d4b082">
 
